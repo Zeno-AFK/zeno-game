@@ -1,0 +1,1 @@
+input("meezox mange mon glant et fait le chien en meme temps gg bg")
